@@ -2,7 +2,7 @@ Answer the following questions for each of the data structures you implemented a
 
 ## Queue
 
-1. What is the runtime complexity of `enqueue`? O(n)
+1. What is the runtime complexity of `enqueue`? O(1)
 
 2. What is the runtime complexity of `dequeue`? O(1)
 
